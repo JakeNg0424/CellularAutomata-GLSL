@@ -1,4 +1,7 @@
 # Germs of Life
+
+Inspiration: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 <img src=".ignore/game-of-life.gif" width="250" height="250"/><-Conway's Game of Life
 <img src=".ignore/final.gif" width="250" height="250"/><-My *"Germs of Life"*
 
